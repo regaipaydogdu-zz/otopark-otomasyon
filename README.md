@@ -13,6 +13,8 @@ Kullanıcıların hesap bilgileri ile giriş yapmadan önce gelen pencere, progr
 ### Kullanıcı Giriş Pencereleri
 Kullanıcı türüne göre yönetici, üye ve misafir kullanıcıların hesaplarına erişim sağlamasına yarayan giriş ekranlarını temsil ediyor.
 
-![acilis](https://github.com/regaipaydogdu/OtoparkOtomasyon/blob/master/screenshots/yonetici_giris.PNG) <br>
-![acilis](https://github.com/regaipaydogdu/OtoparkOtomasyon/blob/master/screenshots/kayıtlı_giris.PNG) <br>
-![acilis](https://github.com/regaipaydogdu/OtoparkOtomasyon/blob/master/screenshots/misafir_giris.PNG) <br>
+![yonetici](https://github.com/regaipaydogdu/OtoparkOtomasyon/blob/master/screenshots/yonetici_giris.PNG) <br>
+![kaydol](https://github.com/regaipaydogdu/OtoparkOtomasyon/blob/master/screenshots/uye_kaydol.PNG) <br>
+![misafir](https://github.com/regaipaydogdu/OtoparkOtomasyon/blob/master/screenshots/misafir_giris.PNG) <br>
+
+
